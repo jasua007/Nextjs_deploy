@@ -40,7 +40,7 @@ export default function PDKT()
                 <tr>
                     <td className=" border-spacing-2">
                      <div className="bg-teal-600 p-6 rounded-lg shadow-md w-80">
-                        <h2 className="text-2xl font-semibold text-center mb-4 text-rose-800">Karna kita berjauhan satu satunya affection yang bisa kita rasakan wujutnya hanyalah memberi hadiah untuk satu sama lain.. happy kali kalo dirimu senang dengan apa yg kuberi sayang."</h2>
+                        <h2 className="text-2xl font-semibold text-center mb-4 text-rose-800">Karna kita berjauhan satu satunya affection yang bisa kita rasakan wujutnya hanyalah memberi hadiah untuk satu sama lain.. happy kali kalo dirimu senang dengan apa yg kuberi sayang</h2>
                     </div>
                     </td>
                     <td className=" border-spacing-2">
