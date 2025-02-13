@@ -1,13 +1,12 @@
 import Image from 'next/image'
-import Link from "next/link";
+import Link from 'next/link';
 
 export default function duaribuduapuluh()
 {return(
-    <div className=" flex justify-center items-center bg-fuchsia-300">
-        {/* <h1 className="text-black">MASA SMP</h1> */}
-
+    <div className='flex justify-center items-center bg-fuchsia-300'>
+        
         <div className='md:table-fixed '>
-            <table className="border-separate border-spacing-10">
+            <table className='border-separate border-spacing-10'>
                 <tr>
                     <td className=" border-spacing-2">
                     <Image src="/images/2020/1.jpg" alt="Gambar Proyek" width={300} height={350} />

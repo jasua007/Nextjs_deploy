@@ -1,11 +1,10 @@
-import Image from 'next/image'
+
 import Link from "next/link";
 
 
 export default function PRESENT()
 {return(
     <div className=" flex justify-center items-center bg-[url(/images/bgbg.jpg)] bg-center bg-">
-        {/* <h1 className="text-black">MASA SMP</h1> */}
 
         <div className=" p-6 rounded-lg shadow-md w-90 border-l-sky-950">
         <h2 className="text-2xl font-semibold text-center mb-4 text-white">
