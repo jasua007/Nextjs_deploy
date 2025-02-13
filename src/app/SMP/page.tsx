@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function SMP()
 {return(
     <div className=" flex justify-center items-center bg-rose-300">
-        {/* <h1 className="text-black">MASA SMP</h1> */}
+        
 
         <div className='md:table-fixed '>
             <table className="border-separate border-spacing-10">
