@@ -8,8 +8,8 @@ export default function duaribuduapuluh()
         <div className='md:table-fixed '>
             <table className='border-separate border-spacing-10'>
                 <tr>
-                    <td className=" border-spacing-2">
-                    <Image src="/images/2020/1.jpg" alt="Gambar Proyek" width={300} height={350} />
+                    <td className='border-spacing-2'>
+                    <Image src='/images/2020/1.jpg' alt='Gambar Proyek' width={300} height={350} />
                     </td>
                     <td className=" border-spacing-2">
                     <div className="bg-fuchsia-400 p-6 rounded-lg shadow-md w-80">
@@ -40,7 +40,7 @@ export default function duaribuduapuluh()
                 <tr>
                     <td className=" border-spacing-2">
                      <div className="bg-pink-400 p-6 rounded-lg shadow-md w-80">
-                        <h2 className="text-2xl font-semibold text-center mb-4 text-rose-800">Sampai dimana aku minta bantuan tentang memilih kampus yang akan ku tuju di SBM, dibantuin "padahal banyak yg dibantuin si jelyntut, sok merasa spesial awak"</h2>
+                        <h2 className="text-2xl font-semibold text-center mb-4 text-rose-800">Sampai dimana aku minta bantuan tentang memilih kampus yang akan ku tuju di SBM, dibantuin padahal banyak yg dibantuin si jelyntut, sok merasa spesial awak</h2>
                     </div>
                     </td>
                     <td className=" border-spacing-2">
@@ -64,12 +64,12 @@ export default function duaribuduapuluh()
                     </div>
                     </td>
                     <td className=" border-spacing-2">
-                    <Image src="/images/2020/6.jpg" alt="Gambar Proyek" width={300} height={350} />
+                    <Image src='/images/2020/6.jpg' alt="Gambar Proyek" width={300} height={350} />
                     </td>
                 </tr>
                 <tr>
                     <td colSpan={2} className='border-spacing-2'>
-                    <Link href="/PDKT" className="text-rose-500 hover:underline cursor-pointer bg-amber-100 p-3 rounded-lg shadow-md w-80 text-2xl font-semibold text-center mb-2">yg manis manis la kita kenang dulu, skip moment yg lain ditahun ini</Link>
+                    <Link href='/PDKT' className='text-rose-500 hover:underline cursor-pointer bg-amber-100 p-3 rounded-lg shadow-md w-80 text-2xl font-semibold text-center mb-2'>yg manis manis la kita kenang dulu, skip moment yg lain ditahun ini</Link>
 
                     </td>
                 </tr>

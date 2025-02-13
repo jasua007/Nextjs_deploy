@@ -1,10 +1,9 @@
 import Image from 'next/image'
-import Link from "next/link";
+import Link from 'next/link'
 
 export default function PDKT()
 {return(
     <div className=" flex justify-center items-center bg-emerald-300">
-        {/* <h1 className="text-black">MASA SMP</h1> */}
 
         <div className='md:table-fixed '>
             <table className="border-separate border-spacing-10">
@@ -70,13 +69,13 @@ export default function PDKT()
                 </tr>
                 <tr>
                     <td colSpan={2} className='border-spacing-2'>
-                    <Link href="/PRESENT" className="text-rose-500 hover:underline cursor-pointer bg-amber-100 p-3 rounded-lg shadow-md w-80 text-2xl font-semibold text-center mb-2">Tanpa pikir panjang aku memilih untuk ke JAWIRRRRR</Link>
+                    <Link href='/PRESENT' className='text-rose-500 hover:underline cursor-pointer bg-amber-100 p-3 rounded-lg shadow-md w-80 text-2xl font-semibold text-center mb-2'>Tanpa pikir panjang aku memilih untuk ke JAWIRRRRR</Link>
 
                     </td>
                 </tr>
 
             </table>
-            <div className="text-center mt-4 rounded-lg">
+            <div className='text-center mt-4 rounded-lg'>
           
         </div>
         </div>
