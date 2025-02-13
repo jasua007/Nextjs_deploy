@@ -1,25 +1,16 @@
-
+import Link from "next/link";
 
 export default function LoginPage() {
   return (
-    <div className="flex h-screen justify-center items-center bg-rose-100">
-      <div className="bg-rose-200 p-6 rounded-lg shadow-md w-80">
-        <h2 className="text-2xl font-semibold text-center mb-4 text-rose-800">Login 
-        </h2>
-        <input
-          type="text"
-          placeholder="Nama Anakmu"
-          className="w-full p-2 border rounded mb-3 "
-
-        />
-        <input
-          type="password"
-          placeholder="tanggal jadiannn"
-          className="w-full p-2 border rounded mb-3"
-        />
-        <button className="w-full bg-blue-500 text-white p-2 rounded hover:bg-blue-600" >
-          Login
-        </button>
+   
+    <div className="flex h-screen justify-center items-center ">
+      <div className="bg-amber-200 p-6 rounded-lg shadow-md w-80">
+        <h2 className="text-2xl font-semibold text-center mb-4 text-rose-800">SELAMAT HARI VALENTINE SAYANGKU JELINA</h2>
+        
+        <div className="text-center mt-4 rounded-lg">
+          
+          <Link href="/home" className="text-rose-500 hover:underline cursor-pointer bg-amber-100 p-3 rounded-lg shadow-md w-80 text-2xl font-semibold text-center mb-2">CLICK AKUH</Link>
+        </div>
       </div>
     </div>
   );
